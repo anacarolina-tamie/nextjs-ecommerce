@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "LEGO® Editions Olivia Rodrigo’s Vinyl - Room Decor Set",
+      "slug": "lego-olivia-rodrigo-vinyl-set",
+      "price": 34.99,
+      "image": "/lego1-no-bg.png",
+      "description": "Full of details to thrill fans, this feature-packed piece of Olivia Rodrigo merch is adorned with decorations that symbolise the superstar’s career. Discover her iconic megaphone, red lips and a butterfly, as well as an autograph plaque and new star elements. An Olivia Rodrigo LEGO® minifigure rocks a new hair element and silver dress inspired by a look from her Sour tour, amping up the fun and imaginative play. Decorate the centre of the vinyl record with shiny foil stickers and then spin it to make extra stars and butterflies appear from the sides. Once it’s complete, kids can show off the record as desk or wall décor in their bedroom using the included hanging element or stand.",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "LEGO® Editions Olivia Rodrigo’s Secret Storage",
+      "slug": "lego-olivia-rodrigo-secret-storage",
+      "price": 79.99,
+      "image": "/lego2-no-bg.png",
+      "description": "Packed with details to thrill fans, this music-themed piece of Olivia Rodrigo merch lets young creators craft a cool collection of items that symbolise the star's career. The base is a concert touring case and there’s a toy guitar, a notebook that she uses to write lyrics, a microphone, vinyl record, megaphone and a TV. Inside the TV is an Olivia Rodrigo LEGO® minifigure rocking her iconic cheerleader outfit, surrounded by fire and floods inspired by the Good 4 U music video. It also features Easter eggs suggested by Olivia herself and makes a great kids' bedroom décor that fans will love showing off.",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "title": "LEGO® Editions Olivia Rodrigo’s Dual Guitar Set",
+      "slug": "lego-olivia-rodrigo-dual-guitar",
+      "price": 119.99,
+      "image": "/lego3-no-bg.png",
+      "description": "One half of this feature-filled piece of Olivia Rodrigo merch is electric to represent the singer’s punky side, while the other side of the guitar model is acoustic to reflect her softer side, and it’s jam-packed with decorations to thrill fans. Discover purple butterflies, star elements, a name plaque, a love heart and a golden autograph. Open the electric side to reveal 2 detailed Olivia Rodrigo LEGO® minifigures, one with an electric guitar and the other with an acoustic guitar. Then turn the dial on the acoustic side to reveal a hidden compartment containing a mini dressing room scene full of Easter eggs. Let the fun rock on by showcasing it as a colorful kids' bedroom décor piece.",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "LEGO® Editions Olivia Rodrigo’s Concert Moon",
+      "slug": "lego-olivia-rodrigo-concert-moon",
+      "price": 49.99,
+      "image": "/lego4-no-bg.png",
+      "description": "Inspired by the viral concert moment that saw Olivia fly over the crowd on a giant crescent moon, this model kit lets fans create a colorful piece of Olivia Rodrigo merch to show their love for an iconic pop star. It includes a detailed purple toy record player, a vinyl record and a moon decorated with new star elements. An Olivia Rodrigo LEGO® minifigure, who rocks a sparkly black outfit based on one of her tour looks, sits on the moon to bring the scene to life. Rotate a handle on the side of the model to make the vinyl and the moon spin and discover a picture holder for displaying your own polaroids or concert tickets. Pulling the red lever reveals a secret drawer to hide precious possessions.",
+      "featured": true
+    },
+    {
+      "id": 5,
+      "title": "LEGO® Botanicals & LEGO Editions Olivia Rodrigo’s Flower Bouquet",
+      "slug": "lego-olivia-rodrigo-flower-bouquet",
+      "price": 49.99,
+      "image": "/lego5-no-bg.png",
+      "description": "Filled with details that nod to the singer’s life and career, this artificial flowers set is sure to strike a chord with fans. Crafted in her signature purple color palette with red and pink accents, it features 11 flowers, including a purple faux rose, an African daisy, a hellebore flower and sprigs of verbena. Discover iconic references to Olivia’s career, such as guitar-shaped petals, cherries, purple stars and butterflies. The LEGO® artificial bouquet becomes an eye-catching piece of kids' room decor to show off proudly on a shelf, desk or bedside table.",
+      "featured": false
+    }
+  ]
+}
