@@ -1,4 +1,6 @@
 import { api } from '@/data/api'
+import type { Product } from '@/data/types/product'
+import type { Metadata } from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
 
